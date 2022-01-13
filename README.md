@@ -17,11 +17,13 @@ Para  realização deste projeto foram utilizados:
 
 ### Página que imprime as playtlists
 
--Mostrar todas os playlist criadas e opção de excluir essas playlists; 
+-Mostrar todas os playlist criadas e opção de excluir essas playlists;
+
 -Mostar detalhes das Playlistsㅤ
 ㅤ
 ### Página que adiciona música nas Playlist
 -Mostrar inputs controlados de nome, artista e url
+
 -Adicionar a música na playlist
 
 ## [Acesse o site aqui](https://beneficial-jail.surge.sh/)
